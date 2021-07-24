@@ -1,0 +1,6 @@
+= Arithmetic =
+
+== Textbooks ==
+
+* ARITHMETIC: A Textbook for Math 01: https://fsw01.bcc.cuny.edu/mathdepartment/Courses/Math/MTH01/allmath01.pdf
+
