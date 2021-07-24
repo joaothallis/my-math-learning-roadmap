@@ -1,0 +1,8 @@
+= My Math Learning Roadmap =
+  * [ ] [[Arithmetic]]
+  * [ ] Pre-algebra
+  * [ ] Algebra
+  * [ ] Statistics
+  * [ ] Probability
+
+
